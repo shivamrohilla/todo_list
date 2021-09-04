@@ -1,0 +1,6 @@
+#listTasks li.done{
+
+    color: green;
+
+    text-decoration: line-through;
+}
